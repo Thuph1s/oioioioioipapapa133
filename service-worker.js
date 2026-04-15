@@ -1,4 +1,4 @@
-const CACHE_NAME = "app-final-v1"; // zmieniaj przy każdej większej aktualizacji
+const CACHE_NAME = "app-final-v2"; // zmieniaj przy każdej większej aktualizacji
 
 self.addEventListener("install", function(e) {
   e.waitUntil(
@@ -21,7 +21,7 @@ self.addEventListener("install", function(e) {
         "./flag.gif",
         "./godlo.gif",
         "./kosz.png",
-        "./1.jpg",
+        "./2.jpg",
         "./ab001_home.svg",
         "./ab010_more.svg",
         "./ac001_services.svg",
